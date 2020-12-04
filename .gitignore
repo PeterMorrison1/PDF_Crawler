@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Sensitive Info (PDF and Excel files)
+*.xlsx
+*.pdf
+
 # C extensions
 *.so
 
